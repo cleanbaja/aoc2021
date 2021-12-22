@@ -1,0 +1,3 @@
+# Build every day by default
+option('day', type : 'integer', value: 0)
+
